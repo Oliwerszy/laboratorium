@@ -1,0 +1,5 @@
+Zadanie 1:
+1 GB wielkość pliku przepustowość 56 kilobajtów - Jaki czas jest potrzebny do ściągnięcia takiego pliku ?
+
+Waga Pliku 1 GB = 1024 MB= 1024 *1024 kB= 1 048 576 KB
+Czas potrzebny 1,048,576 KB / 56 kB/s ~ 18740 sekund co daje około 5 godzin i 12 minut
