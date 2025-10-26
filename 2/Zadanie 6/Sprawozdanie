@@ -1,0 +1,6 @@
+Parametry get znajdują się w adresie URL, dołączane są do URL-a po znaku ? i oddzielane znakiem &.
+Parametry w metodzie GET nie są w domyśle szyfrowane są one widoczne w adresie URL co informuje nas że osoby 3 mogą łatwo je przechwycić w logach serwera historii przeglądarki czy poprzez niezabezpieczone połączenia HTTP
+Natomias w przypadku użycia HTTPS dane są szyfrowane podczas transmisji ale dalej pozostają widoczne w adresie URL w logach dla użytkownika.
+
+Dane w get w przesyłaniu danych dane są przesyłane w adresie URL są widoczne, ograniczone pod względem długości i przeznaczone głownie do pobierania danych.
+W przypadku post dane są przesyłane w ciele żądanie  HTTP. Dzięki temu są mniej widoczne, mogąbyć większe i są częśniej używane do wysyłania danych.
