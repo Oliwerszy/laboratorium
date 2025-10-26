@@ -1,0 +1,12 @@
+body{
+  padding: 30px;
+  background-color: #F7D9BC;
+}
+.title {
+	color: #008000;
+}
+.zdjecie{
+  max-height:400px;
+  width=350px;
+  
+}
