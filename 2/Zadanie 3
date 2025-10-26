@@ -1,0 +1,13 @@
+Zadanie 3 
+    Record Name . . . . . : frc-azsc-000.roaming.officeapps.live.com - jest to nazwa domeny
+    Record Type . . . . . : 5 - jest to rekord typu CNAME
+    Time To Live  . . . . : 931 - pokazuje czas przez jaki wpis bedzie przechowywany w pamięci podręcznej w tym przypadku jest to 931 sekund
+    Data Length . . . . . : 8
+    Section . . . . . . . : Answer
+    CNAME Record  . . . . : osiprod-frc-buff-azsc-000.francecentral.cloudapp.azure.com
+
+Odpowiedz na pytanie 5:
+Podczas odwiedzenia strony na której wcześniej nie byłem na danej przeglądarce nic nie zostaje zapisane w dipslaydns. Możliwe jest to przez ograniczenia pracowników uczelni
+Sprawozdanie:
+Pamięć podręczna DNS jest to lokalna baza danych do przechowywania zlokalizowana na danym PC w której znajdują się zapisane inofrmacje o nazwach domen,ich adresach ip które w niedawnym czasie były odwiedzone.
+Komputer przechowywuje te adresy aby w przyszłości przyśpieszyć otwarcie ponownie odwiedzonych stron, zmniejszyć obciążenie sieci oraz zwiększyć wydajność i płyność przeglądania internetu
