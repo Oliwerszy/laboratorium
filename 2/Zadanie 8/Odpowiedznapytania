@@ -1,0 +1,24 @@
+Odpowiedzi na pytania dla części 1
+
+b) obok etykiety layer 7 jest tekst HTTP
+ In Layer -> FastEthernet0 receives the frame. Out Layers ->Port(s): FastEthernet0
+c) Dest port wynosi 80
+d) Dest ip wynosi 192.168.1.2
+e) 
+Ethernet II Header
+00E0.A30E.DB14 >>
+0060.7015.2C51
+PDU:
+Wspólne informacje:
+Źródłowy i docelowy adres IP (192.168.1.10 → 192.168.1.2)
+Związane z warstwą 3 
+TCP:
+Wspólne informacje:
+Port źródłowy (1072) i port docelowy (80)
+Związane z warstwą 4
+HTTP:
+Watość pola host brak:
+Związanie z warstwa 7
+g) Główne różnice to odwrócone adresy.
+i) Accept-Language: en-us
+j) Zostały wyświetlone 2 ponieważ to ramka wychodząca z PC0 – Packet Tracer wyświetla jedynie OSI Model i Outbound PDU Details
